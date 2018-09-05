@@ -1,0 +1,17 @@
+*** Lobo Shortcodes Changelog ***
+
+18 July 2014 - Version 1.0.2
+	
+	* Added accordion shortcode
+
+27 May 2014 - Version 1.0.2
+	
+	* Added "tabs" style for the content slider shortcode
+
+22 May 2014 - Version 1.0.1
+	
+	* Added widget area shortcode
+
+12 May 2014 - Version 1.0
+	
+	* First Release

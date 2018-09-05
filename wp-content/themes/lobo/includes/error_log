@@ -1,0 +1,30 @@
+[30-Sep-2016 20:52:28 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: @getbusinessfunded.com|fundingteam+btqdesign.com@findfastbusinessfunds.com|fundingteam+btqdesign.com@fastfundingadvisors.com|fundingteam+btqdesign.com@businessloansfunded.com}' in /home/boutique/public_html/wp-includes/class-phpmailer.php:946
+Stack trace:
+#0 /home/boutique/public_html/wp-includes/pluggable.php(352): PHPMailer->setFrom('@getbusinessfun...', 'Find Fast Busin...', false)
+#1 /home/boutique/public_html/wp-content/themes/lobo/includes/contact-form.php(62): wp_mail('hello@btqdesign...', 're: Sba Capital...', 'Form details be...', Array)
+#2 {main}
+  thrown in /home/boutique/public_html/wp-includes/class-phpmailer.php on line 946
+[14-Oct-2016 05:23:25 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: @getbusinessfunded.com|fundingteam+btqdesign.com@findfastbusinessfunds.com|fundingteam+btqdesign.com@fastfundingadvisors.com|fundingteam+btqdesign.com@businessloansfunded.com}' in /home/boutique/public_html/wp-includes/class-phpmailer.php:946
+Stack trace:
+#0 /home/boutique/public_html/wp-includes/pluggable.php(352): PHPMailer->setFrom('@getbusinessfun...', 'Fast Funding Ad...', false)
+#1 /home/boutique/public_html/wp-content/themes/lobo/includes/contact-form.php(62): wp_mail('hello@btqdesign...', 're: Sba Capital...', 'Form details be...', Array)
+#2 {main}
+  thrown in /home/boutique/public_html/wp-includes/class-phpmailer.php on line 946
+[28-Oct-2016 17:14:17 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: @getbusinessfunded.com|fundingteam+btqdesign.com@probusinessfunding.com|fundingteam+btqdesign.com@getabusinessloan365.com|fundingteam+btqdesign.com@fastfundingadvisors.com|fundingteam+btqdesign.com@businesscapitaladvisor.com|fundingteam+btqdesign.com@smartfinancialfunding.com|fundingteam+btqdesign.com@findfastbusinessfunds.com|fundingteam+btqdesign.com@findfastbusinessfunds.com|fundingteam+btqdesign.com@findfastbusinessfunds.com|fundingteam+btqdesign.com@findfastbusinessfunds.com|fundingteam+btqdesign.com@findfastbusinessfunds.com|fundingteam+btqdesign.com@findfastbusinessfunds.com}' in /home/boutique/public_html/wp-includes/class-phpmailer.php:946
+Stack trace:
+#0 /home/boutique/public_html/wp-includes/pluggable.php(352): PHPMailer->setFrom('@getbusinessfun...', 'SmartFinancialF...', false)
+#1 /home/boutique/public_html/wp-content/themes/lobo/includes/contact-form.php(62): wp_mail('hello@btqdesign...', 'RE: Your Busine...', 'Form details b in /home/boutique/public_html/wp-includes/class-phpmailer.php on line 946
+[03-Aug-2017 08:09:42 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (setFrom) fundingteam+btqdesign.com@fastfundingadvisors.com' in /home/boutique/public_html/wp-includes/class-phpmailer.php:1023
+Stack trace:
+#0 /home/boutique/public_html/wp-includes/pluggable.php(352): PHPMailer->setFrom('\x7Ffundingteam+bt...', 'FastFundingAdvi...', false)
+#1 /home/boutique/public_html/wp-content/themes/lobo/includes/contact-form.php(62): wp_mail('hello@btqdesign...', 'RE: Capital for...', 'Form details be...', Array)
+#2 {main}
+  thrown in /home/boutique/public_html/wp-includes/class-phpmailer.php on line 1023
+[26-Apr-2018 06:21:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_escape_string() in /home/boutique/public_html/wp-content/themes/lobo/functions.php:60
+Stack trace:
+#0 /home/boutique/public_html/wp-settings.php(425): include()
+#1 /home/boutique/public_html/wp-config.php(81): require_once('/home/boutique/...')
+#2 /home/boutique/public_html/wp-load.php(37): require_once('/home/boutique/...')
+#3 /home/boutique/public_html/wp-content/themes/lobo/includes/contact-form.php(31): require('/home/boutique/...')
+#4 {main}
+  thrown in /home/boutique/public_html/wp-content/themes/lobo/functions.php on line 60

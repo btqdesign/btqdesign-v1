@@ -1,0 +1,14 @@
+drwxr-xr-x    2 547      548          4096 Sep 05 11:30 .
+drwxr-xr-x    4 547      548          4096 Sep 05 11:30 ..
+-rw-r--r--    1 547      548          2060 May 08 02:10 color_bg.png
+-rw-r--r--    1 547      548           348 May 08 02:10 color_hex.png
+-rw-r--r--    1 547      548           459 May 08 02:10 color_hsb_b.png
+-rw-r--r--    1 547      548           417 May 08 02:10 color_hsb_h.png
+-rw-r--r--    1 547      548           481 May 08 02:10 color_hsb_s.png
+-rw-r--r--    1 547      548           192 May 08 02:10 color_indicator.png
+-rw-r--r--    1 547      548         10355 May 08 02:10 color_overlay.png
+-rw-r--r--    1 547      548           458 May 08 02:10 color_rgb_b.png
+-rw-r--r--    1 547      548           492 May 08 02:10 color_rgb_g.png
+-rw-r--r--    1 547      548           473 May 08 02:10 color_rgb_r.png
+-rw-r--r--    1 547      548            78 May 08 02:10 color_select.gif
+-rw-r--r--    1 547      548           892 May 08 02:10 color_wheel.png

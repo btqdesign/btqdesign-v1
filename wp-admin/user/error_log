@@ -1,0 +1,2 @@
+[24-Nov-2017 20:22:26 UTC] PHP Fatal error:  Call to undefined function __() in /home/boutique/public_html/wp-admin/user/menu.php on line 10
+[24-Nov-2017 20:33:20 UTC] PHP Fatal error:  Call to undefined function __() in /home/boutique/public_html/wp-admin/user/menu.php on line 10

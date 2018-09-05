@@ -1,0 +1,9 @@
+drwxr-xr-x    7 547      548          4096 Oct 07 11:45 .
+drwxr-x---    8 547      99           4096 Oct 07 10:37 ..
+-rw-r--r--    1 547      548            28 Jan 08  2012 index.php
+drwxr-xr-x    4 547      548          4096 Sep 06 05:24 languages
+-rw-r--r--    1 547      548           309 Sep 19 13:38 maintenance.php
+drwxr-xr-x    6 547      548          4096 Oct 07 11:46 plugins
+drwxr-xr-x    6 547      548          4096 Sep 09 18:41 themes
+drwxr-xr-x    2 547      548          4096 Oct 07 11:45 upgrade
+drwxr-xr-x    3 547      548          4096 Sep 19 13:54 uploads

@@ -1,0 +1,8 @@
+drwxr-xr-x    4 547      548          4096 Oct 10 02:32 .
+drwxr-xr-x    6 547      548          4096 Oct 07 11:46 ..
+drwxr-xr-x    2 547      548          4096 Oct 07 11:45 assets
+-rw-r--r--    1 547      548           288 Oct 07 11:45 changelog.txt
+-rw-r--r--    1 547      548           392 Oct 11 05:32 error_log
+-rw-r--r--    1 547      548          3952 Oct 07 11:45 lobo-shortcodes.php
+-rw-r--r--    1 547      548         15324 Oct 07 11:45 shortcodes.php
+drwxr-xr-x    5 547      548          4096 Oct 07 11:45 tinymce

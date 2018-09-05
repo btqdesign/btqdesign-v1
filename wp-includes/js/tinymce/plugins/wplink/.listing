@@ -1,0 +1,4 @@
+drwxr-xr-x    2 547      548          4096 Sep 06 05:24 .
+drwxr-xr-x   22 547      548          4096 Sep 06 05:24 ..
+-rw-r--r--    1 547      548          1656 Jul 15 20:10 plugin.js
+-rw-r--r--    1 547      548           923 Jul 15 20:10 plugin.min.js

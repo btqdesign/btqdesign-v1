@@ -1,0 +1,4 @@
+[14-Dec-2016 23:08:29 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/boutique/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[11-Aug-2017 13:26:32 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/boutique/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[30-Oct-2017 17:30:23 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/boutique/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[18-Jan-2018 12:23:14 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/boutique/public_html/wp-includes/Requests/Auth/Basic.php on line 18

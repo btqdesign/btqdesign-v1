@@ -1,0 +1,13 @@
+drwxr-xr-x    4 547      548          4096 Sep 05 11:30 .
+drwxr-xr-x   10 547      548          4096 Oct 10 01:56 ..
+-rw-r--r--    1 547      548           945 May 08 02:10 comment-reply.js
+drwxr-xr-x    4 547      548          4096 Sep 05 11:30 galleria-themes
+-rw-r--r--    1 547      548         61619 May 29 07:51 galleria.min.js
+-rw-r--r--    1 547      548         23180 Jul 16 07:20 jquery.fancybox.pack.js
+-rw-r--r--    1 547      548         46663 Aug 15 03:55 jquery.mb.YTPlayer.dev.js
+-rw-r--r--    1 547      548         25392 Sep 05 08:46 jquery.mb.YTPlayer.js
+-rw-r--r--    1 547      548         80718 Sep 05 08:46 main.js
+drwxr-xr-x    2 547      548          4096 Oct 04 21:22 mediaelement
+-rw-r--r--    1 547      548         15414 May 08 02:10 modernizr-2.6.2.min.js
+-rw-r--r--    1 547      548        154070 Jul 23 09:51 plugins.dev.js
+-rw-r--r--    1 547      548        131385 Jul 23 09:51 plugins.js

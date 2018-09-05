@@ -1,0 +1,4 @@
+[14-Dec-2016 23:08:39 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/boutique/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[11-Aug-2017 13:27:30 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/boutique/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[30-Oct-2017 17:31:46 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/boutique/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[18-Jan-2018 12:25:37 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/boutique/public_html/wp-includes/Requests/Response/Headers.php on line 13

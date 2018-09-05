@@ -1,0 +1,4 @@
+[14-Dec-2016 09:34:30 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/boutique/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[14-Aug-2017 22:50:30 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/boutique/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[03-Nov-2017 09:24:22 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/boutique/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[22-Jan-2018 09:25:38 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/boutique/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

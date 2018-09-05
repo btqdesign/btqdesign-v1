@@ -1,0 +1,9 @@
+drwxr-xr-x    3 547      548          4096 Sep 05 11:30 .
+drwxr-xr-x    7 547      548          4096 Sep 05 11:30 ..
+-rw-r--r--    1 547      548          1388 Jul 24 05:20 product-image.php
+-rw-r--r--    1 547      548          1087 Jul 16 09:22 product-thumbnails.php
+-rw-r--r--    1 547      548          1192 Jul 24 05:20 related.php
+-rw-r--r--    1 547      548          1915 Jul 22 11:02 review.php
+-rw-r--r--    1 547      548           449 Jul 09 09:52 short-description.php
+drwxr-xr-x    2 547      548          4096 Sep 05 11:30 tabs
+-rw-r--r--    1 547      548          1242 Jul 22 11:02 up-sells.php

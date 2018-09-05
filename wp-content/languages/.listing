@@ -1,0 +1,12 @@
+drwxr-xr-x    4 547      548          4096 Sep 06 05:24 .
+drwxr-xr-x    7 547      548          4096 Oct 07 11:45 ..
+-rw-r--r--    1 547      548        352170 Sep 06 05:24 admin-es_ES.mo
+-rw-r--r--    1 547      548        464270 Sep 06 05:24 admin-es_ES.po
+-rw-r--r--    1 547      548         46097 Sep 06 05:24 admin-network-es_ES.mo
+-rw-r--r--    1 547      548         57489 Sep 06 05:24 admin-network-es_ES.po
+-rw-r--r--    1 547      548         18935 Sep 06 05:24 continents-cities-es_ES.mo
+-rw-r--r--    1 547      548         40232 Sep 06 05:24 continents-cities-es_ES.po
+-rw-r--r--    1 547      548        141820 Sep 06 05:24 es_ES.mo
+-rw-r--r--    1 547      548        215837 Sep 06 05:24 es_ES.po
+drwxr-xr-x    2 547      548          4096 Sep 06 05:24 plugins
+drwxr-xr-x    2 547      548          4096 Sep 06 05:24 themes

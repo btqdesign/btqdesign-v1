@@ -1,0 +1,13 @@
+drwxr-xr-x    7 547      548          4096 Sep 06 05:24 .
+drwxr-xr-x   11 547      548          4096 Sep 06 05:24 ..
+drwxr-xr-x    2 547      548          4096 Sep 06 05:24 langs
+-rw-r--r--    1 547      548         26427 Apr 11  2011 license.txt
+drwxr-xr-x   22 547      548          4096 Sep 06 05:24 plugins
+drwxr-xr-x    4 547      548          4096 Sep 06 05:24 skins
+drwxr-xr-x    3 547      548          4096 Sep 06 05:24 themes
+-rw-r--r--    1 547      548         14965 Mar 19  2014 tiny_mce_popup.js
+-rw-r--r--    1 547      548        301201 Aug 22 13:44 tinymce.min.js
+drwxr-xr-x    2 547      548          4096 Sep 06 05:24 utils
+-rw-r--r--    1 547      548          4899 Aug 08 17:18 wp-mce-help.php
+-rw-r--r--    1 547      548        134666 Sep 01 15:03 wp-tinymce.js.gz
+-rw-r--r--    1 547      548          1128 Jul 07 12:42 wp-tinymce.php
