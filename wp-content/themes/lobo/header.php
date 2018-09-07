@@ -4,15 +4,13 @@
 <!--[if IE 8]><html class="no-js lt-ie9 ie" <?php language_attributes(); ?>><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" <?php language_attributes(); ?>> <!--<![endif]-->
 <head>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125410080-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-	
-	  gtag('config', 'UA-125410080-1');
-	</script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NNPKQ47');</script>
+    <!-- End Google Tag Manager -->
 
 
     <!-- testing svg -->
@@ -53,6 +51,10 @@
 	$page_hero = krown_hero( $post ); ?>
 
 <body id="body" <?php body_class( get_option( 'lobo_prlx_enable', 'parallax' ) . ' ' . get_option( 'lobo_sticky_enable', 'sticky-head' ) . ' ' . get_option( 'lobo_compact_menu', 'compact-menu' ) . lobo_custom_body_class() . ' ' . get_option( 'lobo_slider_loop', 'sldr-noloop' ) . ' ' . get_option( 'lobo_slider_fade', 'sldr-nofade' ) . ' ' . get_option( 'lobo_sticky_style', 'sticky-default' ) . ' ' . $page_hero[0] . ( function_exists( 'is_woocommerce' ) ? ' is-active-wc' : '' ) . ( get_option( 'lobo_shop_cart', 'enabled') == 'disabled' ? ' push-back-actions' : '' ) ); ?>>
+	<!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NNPKQ47"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
 	<!-- Start main wrapper -->
     <div id="main-wrapper">
