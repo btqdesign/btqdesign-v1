@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Jetpack by WordPress.com - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-08-16 19:05:45+0000\n"
+"PO-Revision-Date: 2018-10-11 11:49:21+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,7 +26,7 @@ msgstr "Facebook ya no permite conexiones de Publicize a perfiles de Facebook, p
 #: modules/simple-payments/simple-payments.php:169
 #: modules/widgets/simple-payments/admin-warning.php:9
 msgid "Your plan doesn't include Simple Payments. <a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Learn more and upgrade</a>."
-msgstr "Tu plano no incluye Simple Payments. <a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Aprende más y actualiza</a>."
+msgstr "Tu plano no incluye Simple Payments. <a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">Aprende más y mejora</a>."
 
 #: modules/publicize/publicize.php:189
 msgid "Connecting..."
@@ -859,11 +859,6 @@ msgctxt "Settings header"
 msgid "Privacy Settings"
 msgstr "Ajustes de privacidad"
 
-#: _inc/jetpack-strings.php:242
-msgctxt "Caption for a button to purchase a pro plan."
-msgid "Upgrade"
-msgstr "Mejorar"
-
 #: _inc/jetpack-strings.php:640
 msgid "This feature has been enabled by a site administrator. {{link}}Learn more{{/link}}."
 msgstr "Esta característica ha sido activada por un administrador del sitio. {{link}}Aprende más{{/link}}."
@@ -871,6 +866,11 @@ msgstr "Esta característica ha sido activada por un administrador del sitio. {{
 #: _inc/jetpack-strings.php:610
 msgid "%(moduleName)s has been disabled by a site administrator. {{link}}Learn more{{/link}}."
 msgstr "%(moduleName)s ha sido desactivado por un administrador del sitio. {{link}}Aprende más{{/link}}."
+
+#: _inc/jetpack-strings.php:242
+msgctxt "Caption for a button to purchase a pro plan."
+msgid "Upgrade"
+msgstr "Actualizar"
 
 #: _inc/jetpack-strings.php:402
 msgid "This feature has been disabled by a site administrator."
@@ -3267,11 +3267,6 @@ msgstr "Busca en nuestro sitio de soporte"
 msgid "Get a faster resolution to your support questions."
 msgstr "Consigue una respuesta más rápida a tus preguntas de soporte."
 
-#: _inc/jetpack-strings.php:654
-msgctxt "A caption for a button to upgrade an existing paid feature to a higher tier."
-msgid "Upgrade"
-msgstr "Actualizar"
-
 #: _inc/jetpack-strings.php:655
 msgid "Host fast, high-quality, ad-free video."
 msgstr "Video de alta calidad, sin publicidad y con alojamiento rápido."
@@ -3319,6 +3314,11 @@ msgstr "Protégete contra pérdidas de datos, malware y ataques maliciosos."
 msgctxt "A heading for a block of related posts."
 msgid "Related"
 msgstr "Relacionado"
+
+#: _inc/jetpack-strings.php:654
+msgctxt "A caption for a button to upgrade an existing paid feature to a higher tier."
+msgid "Upgrade"
+msgstr "Actualizar"
 
 #: _inc/jetpack-strings.php:584
 msgid "This site is not connected to WordPress.com. Please ask the site administrator to connect."
@@ -3713,11 +3713,6 @@ msgctxt "Short warning message about site having no security scan."
 msgid "No scanning"
 msgstr "No se ha escaneado"
 
-#: _inc/jetpack-strings.php:241
-msgctxt "Caption for a button to purchase a paid feature."
-msgid "Upgrade"
-msgstr "Actualizar"
-
 #: _inc/jetpack-strings.php:243
 msgctxt "Short message informing user that the site is secure."
 msgid "Secure"
@@ -3761,6 +3756,11 @@ msgstr "Conecta tu cuenta de usuario con WordPress.com para ver tus seguidores p
 #: _inc/jetpack-strings.php:252
 msgid "There's a problem with your Antispam API key. {{a}}Learn more{{/a}}."
 msgstr "Hay un problema con tu clave de API antispam. {{a}}Aprende más{{/a}}."
+
+#: _inc/jetpack-strings.php:241
+msgctxt "Caption for a button to purchase a paid feature."
+msgid "Upgrade"
+msgstr "Actualizar"
 
 #: _inc/jetpack-strings.php:70
 msgid "Your site is connected to WordPress.com."
@@ -5115,10 +5115,6 @@ msgstr "Seguridad del sitio"
 msgid "Jetpack provides detailed stats and insights about your viewers."
 msgstr "Jetpack proporciona estadísticas detalladas y analíticas sobre tus visitantes."
 
-#: class.jetpack-connection-banner.php:248
-msgid "You get detailed visitor stats, state-of-the-art security services, image performance upgrades, traffic generation tools, and more."
-msgstr "Obtén estadísticas detalladas de visitantes, servicios de seguridad de última generación, actualizaciones en el rendimiento de imágenes, herramientas de generación de tráfico y más."
-
 #: class.jetpack-connection-banner.php:257
 msgid "Connect to WordPress.com (free) to get started!"
 msgstr "¡Conecta a WordPress.com (gratis) para empezar!"
@@ -5134,6 +5130,10 @@ msgstr "Jetpack simplifica la seguridad del sitio, su personalización y gestió
 #: class.jetpack-connection-banner.php:289
 msgid "Detailed stats and traffic tools to help your site grow"
 msgstr "Estadísticas detalladas y herramientas de tráfico para ayudar a tu sitio a crecer"
+
+#: class.jetpack-connection-banner.php:248
+msgid "You get detailed visitor stats, state-of-the-art security services, image performance upgrades, traffic generation tools, and more."
+msgstr "Obtén estadísticas detalladas de visitantes, servicios de seguridad de última generación, mejoras en el rendimiento de imágenes, herramientas de generación de tráfico y más."
 
 #. Translators: the plural variable is a comma-separated list. Example: dog,
 #. cat, bird.
@@ -5994,10 +5994,6 @@ msgstr[1] "Impulsa tu sitio falló al tratar de activar estos módulos: %s."
 msgid "Protect global whitelist"
 msgstr "Lista blanca global de Protección"
 
-#: _inc/jetpack-strings.php:627
-msgid "Upgrade Jetpack and our state-of-the-art security scanner will hunt out malicious files and report them immediately so that you're never unaware of what is happening on your website."
-msgstr "Actualiza Jetpack y nuestro escáner de seguridad de última generación cazará archivos maliciosos y te informará inmediatamente para que nunca dejes de estar al tanto de lo que pasa en tu web."
-
 #: _inc/jetpack-strings.php:646
 msgid "Search for a Jetpack feature."
 msgstr "Buscar una característica de Jetpack."
@@ -6006,6 +6002,10 @@ msgstr "Buscar una característica de Jetpack."
 msgctxt "Navigation item."
 msgid "At a Glance"
 msgstr "De un vistazo"
+
+#: _inc/jetpack-strings.php:627
+msgid "Upgrade Jetpack and our state-of-the-art security scanner will hunt out malicious files and report them immediately so that you're never unaware of what is happening on your website."
+msgstr "Mejora Jetpack y nuestro escáner de seguridad de última generación cazará archivos maliciosos y te informará inmediatamente para que nunca dejes de estar al tanto de lo que pasa en tu web."
 
 #: _inc/jetpack-strings.php:636
 msgid "Let search engines and visitors know that you are serious about your websites integrity by upgrading Jetpack. Our anti-spam tools will eliminate comment spam, protect your SEO, and make it easier for visitors to stay in touch."
@@ -6065,10 +6065,6 @@ msgstr "Suscriptor"
 msgid "{{link}}Configure your %(module_slug)s Settings {{/link}}"
 msgstr "{{link}}Configura tus ajustes de %(module_slug)s {{/link}}"
 
-#: _inc/jetpack-strings.php:341 _inc/jetpack-strings.php:616
-msgid "Upgrade Focus: VideoPress For Weddings"
-msgstr "Actualiza Focus: VideoPress para bodas"
-
 #: _inc/jetpack-strings.php:142
 msgid "Show a \"follow blog\" option in the comment form"
 msgstr "Muestra las opciones \"sigue al blog\" en el formulario de comentarios"
@@ -6076,6 +6072,10 @@ msgstr "Muestra las opciones \"sigue al blog\" en el formulario de comentarios"
 #: _inc/jetpack-strings.php:143
 msgid "Show a \"follow comments\" option in the comment form"
 msgstr "Muestra la opción \"sigue los comentarios\" en el formulario de comentarios."
+
+#: _inc/jetpack-strings.php:341 _inc/jetpack-strings.php:616
+msgid "Upgrade Focus: VideoPress For Weddings"
+msgstr "Mejora Focus: VideoPress para bodas"
 
 #: _inc/jetpack-strings.php:289
 msgid "Whitelisted IP addresses"
@@ -11027,10 +11027,6 @@ msgstr "Reemplazar <a href=\"%s\">el CSS del tema</a> <b>(Avanzado)</b>"
 msgid "Replacement"
 msgstr "Reemplazo"
 
-#: modules/custom-css/custom-css.php:1239
-msgid "Save &amp; Buy Upgrade"
-msgstr "Guardar &amp; Comprar Actualización"
-
 #: modules/custom-post-types/nova.php:570
 #: modules/custom-post-types/nova.php:631
 msgid "Save New Order"
@@ -11310,6 +11306,10 @@ msgid ""
 "New to CSS? Start with a <a href=\"http://www.htmldog.com/guides/cssbeginner/\" rel=\"noopener noreferrer\" target=\"_blank\">beginner tutorial</a>. Questions?\n"
 "\t\tAsk in the <a href=\"https://wordpress.org/support/forum/themes-and-templates\" rel=\"noopener noreferrer\" target=\"_blank\">Themes and Templates forum</a>."
 msgstr "¿Nuevo con CSS? Empieza con un <a href=\"http://www.htmldog.com/guides/cssbeginner/\" rel=\"noopener noreferrer\" target=\"_blank\">tutorial para principiantes</a> . ¿Preguntas? Hazlas en el <a href=\"https://wordpress.org/support/forum/themes-and-templates\" rel=\"noopener noreferrer\" target=\"_blank\">foro Temas y plantillas</a> ."
+
+#: modules/custom-css/custom-css.php:1239
+msgid "Save &amp; Buy Upgrade"
+msgstr "Guardar &amp; Comprar mejora"
 
 #: modules/contact-form/grunion-form-view.php:169
 msgctxt "%1$s = \"Click here\" in an HTML link"
